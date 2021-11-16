@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "compound-interest-calc-ionic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

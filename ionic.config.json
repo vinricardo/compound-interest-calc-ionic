@@ -1,0 +1,7 @@
+{
+  "name": "compound-interest-calc-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
